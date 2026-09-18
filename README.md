@@ -1,37 +1,66 @@
-# 👋 Hi, I'm Hamama Komal 
+<div align="center">
 
-I am a seasoned **Android Developer** who is now venturing into the world of **Artificial Intelligence and Machine Learning**. After a year of building robust mobile ecosystems, I am now focused on making those systems "smarter" by mastering data science and predictive modeling.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:bb9af7&height=190&section=header&text=Hamama%20Komal&fontSize=58&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Android%20Developer%20%E2%86%92%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=2%2B+years+building+Android+apps+%F0%9F%93%B1;Now+teaching+them+to+think+%F0%9F%A7%A0;Kotlin+%C2%B7+Python+%C2%B7+PyTorch+%C2%B7+Scikit-Learn;Shipping+ML+models+to+mobile+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-### 🚀 My Journey:
-* **The Foundation**: Spent 2+ year as a dedicated Android Developer, specializing in Kotlin/Java, MVVM architecture, and complex integrations like Firebase and Room.
-* **The Transition**: Currently diving deep into AI/ML. I'm taking my mobile background and applying it to Data Science—starting with predictive analysis and classical machine learning.
-* **The Vision**: To evolve into an AI engineer who can deploy sophisticated models directly into mobile environments.
-* **Currently Learning**: PyTorch, Neural Networks, and Deep Learning architectures.
-
-[![](https://visitcount.itsvg.in/api?id=Hamama-Komal&icon=6&color=3)](https://visitcount.itsvg.in)
-
----
-
-### 🛠️ Evolving Skillset:
-
-**Current Focus: AI & Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-
-**Core Background: Android Development**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
----
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamama-komal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hammay.00?igsh=emo2YzQzZGNpOXlz) 
-
----
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamama-Komal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamama-Komal&theme=highcontrast&hide_border=false)
 
----
+<a href="https://hamama-komal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=googlechrome&logoColor=1a1b27" /></a>
+<a href="https://linkedin.com/in/hamama-komal"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" /></a>
+<a href="https://www.instagram.com/hammay.00"><img src="https://img.shields.io/badge/Instagram-f7768e?style=for-the-badge&logo=instagram&logoColor=1a1b27" /></a>
+<img src="https://komarev.com/ghpvc/?username=Hamama-Komal&style=for-the-badge&color=9ece6a&label=VIEWS" />
+
+</div>
+
+### 🧬 About Me
+
+```kotlin
+val hamama = Developer(
+    role        = "Android Developer → AI/ML Engineer",
+    background  = listOf("Kotlin", "Java", "MVVM", "Firebase", "Room"),
+    learning    = listOf("PyTorch", "Neural Networks", "Deep Learning"),
+    mission     = "Deploy intelligent models directly on mobile 📱🧠"
+)
+```
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48"/>
+
+**Android**<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,git&theme=dark" />
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamama-Komal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamama-Komal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+
+<img src="https://streak-stats.demolab.com?user=Hamama-Komal&theme=tokyonight&hide_border=true&background=1a1b27" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamama-Komal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="100%" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamama-Komal/Hamama-Komal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamama-Komal/Hamama-Komal/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hamama-Komal/Hamama-Komal/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:3d59a1,100:1a1b27&height=110&section=footer" width="100%"/>
