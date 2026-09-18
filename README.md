@@ -1,42 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:bb9af7&height=190&section=header&text=Hamama%20Komal&fontSize=58&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Android%20Developer%20%E2%86%92%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:196c2e,100:39d353&height=190&section=header&text=Hamama%20Komal&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=2%2B+years+building+Android+apps+%F0%9F%93%B1;Now+teaching+them+to+think+%F0%9F%A7%A0;Kotlin+%C2%B7+Python+%C2%B7+PyTorch+%C2%B7+Scikit-Learn;Shipping+ML+models+to+mobile+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://hamama-komal.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=9+apps+shipped+to+Google+Play+%F0%9F%93%B1;Flutter+Developer+%40+Devlix+Technologies;AI+Engineer+%26+AI%2FML+Instructor+%40+XOKSIS+%F0%9F%A7%A0;Clean+Architecture+%C2%B7+LLMs+%C2%B7+RAG" alt="Typing SVG" /></a>
 
 <br/>
 
-<a href="https://hamama-komal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=googlechrome&logoColor=1a1b27" /></a>
-<a href="https://linkedin.com/in/hamama-komal"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" /></a>
-<a href="https://www.instagram.com/hammay.00"><img src="https://img.shields.io/badge/Instagram-f7768e?style=for-the-badge&logo=instagram&logoColor=1a1b27" /></a>
-<img src="https://komarev.com/ghpvc/?username=Hamama-Komal&style=for-the-badge&color=9ece6a&label=VIEWS" />
+<a href="https://hamama-komal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a>
+<a href="https://linkedin.com/in/hamama-komal"><img src="https://img.shields.io/badge/LinkedIn-2ea043?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hamama.komal.00@gmail.com"><img src="https://img.shields.io/badge/Email-196c2e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/hammay.00"><img src="https://img.shields.io/badge/Instagram-0e4429?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Hamama-Komal&style=for-the-badge&color=39d353&label=VIEWS" />
 
 </div>
 
-### 🧬 About Me
+### 🌱 About Me
 
-```kotlin
-val hamama = Developer(
-    role        = "Android Developer → AI/ML Engineer",
-    background  = listOf("Kotlin", "Java", "MVVM", "Firebase", "Room"),
-    learning    = listOf("PyTorch", "Neural Networks", "Deep Learning"),
-    mission     = "Deploy intelligent models directly on mobile 📱🧠"
-)
+```dart
+final hamama = Developer(
+  role:      'Flutter App Developer @ Devlix Technologies',
+  sideQuest: 'AI Engineer & AI/ML Instructor @ XOKSIS',
+  shipped:   '9 apps on Google Play 🚀',
+  stack:     ['Flutter', 'Dart', 'Firebase', 'Python', 'FastAPI'],
+  loves:     ['Clean Architecture', 'LLMs', 'RAG pipelines'],
+  location:  'Bhakkar, Pakistan · Open to remote Flutter roles',
+);
 ```
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48"/>
+**📱 Mobile & Architecture**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,firebase,git,github&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Clean_Architecture-196c2e?style=flat-square" />
+<img src="https://img.shields.io/badge/MVVM-196c2e?style=flat-square" />
+<img src="https://img.shields.io/badge/GetX-196c2e?style=flat-square" />
+<img src="https://img.shields.io/badge/Provider-196c2e?style=flat-square" />
+<img src="https://img.shields.io/badge/REST_APIs-196c2e?style=flat-square" />
 
-**Android**<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,git&theme=dark" />
+**🧠 AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/LLMs-2ea043?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-2ea043?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-2ea043?style=flat-square" />
 
 </div>
 
@@ -44,12 +51,12 @@ val hamama = Developer(
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamama-Komal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamama-Komal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamama-Komal&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=c9d1d9&ring_color=39d353" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamama-Komal&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=Hamama-Komal&theme=tokyonight&hide_border=true&background=1a1b27" />
+<img src="https://streak-stats.demolab.com?user=Hamama-Komal&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=196c2e" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamama-Komal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamama-Komal&hide_border=true&bg_color=0d1117&color=39d353&line=2ea043&point=e6edf3&area=true&area_color=196c2e" width="100%" />
 
 </div>
 
@@ -63,4 +70,4 @@ val hamama = Developer(
 </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:3d59a1,100:1a1b27&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:196c2e,100:0d1117&height=110&section=footer" width="100%"/>
